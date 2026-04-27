@@ -715,4 +715,18 @@
     "actividad": "Primera Claseeee",
     "url": "https://drive.google.com/file/d/1dJ17ESob_sSQV4FKRtEaYxiSNAeWpFdv/view?usp=drive_link"
   }
+        {
+    "nombreapp": "fakeapi",
+    "descripcion": "Es una app donde puedes escoger ropa ropa y asi, podras guardar en favoritos los que te guste",
+    "icono": "https://fakeapi.net/img/logo.svg",
+    "grupo": "lunes",
+    "fecha": "2026-04-27",
+    "id": 1,
+    "integrantes": [
+      
+      "Juan jose gonzalez Aguiar"
+    ],
+    "actividad": "Primera Claseeee",
+    "url": "https://drive.google.com/file/d/1dJ17ESob_sSQV4FKRtEaYxiSNAeWpFdv/view?usp=drive_link"
+  }
 ]
